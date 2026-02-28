@@ -45,7 +45,7 @@ Mongoose
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/mern-user-management-system.git
+git clone https://github.com/abhishek01git/user-management-mern-.git
 cd mern-user-management-system
 2️⃣ Install Backend Dependencies
 cd server
